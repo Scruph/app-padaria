@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [C#](https://docs.microsoft.com/pt-br/dotnet/)
 
 ## 💻 Projeto
-Descrição do projeto bem aqui
+O App Padaria tem como objetivo administrar e gerenciar uma padaria, automatizar funções básicas de trabalho, com um layout atrativo, para fácil manuseio da ferramenta com fluidez e velocidade necessária para o trabalho diário.
 
 ## 🚀 Como executar
 
